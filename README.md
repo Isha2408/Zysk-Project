@@ -20,7 +20,7 @@ This project has been deployed and is live at [Zysk Project](https://zysk-projec
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Harishri2002/ZyskProject.git
+    [git clone https://github.com/Isha2408/Zysk-Project.git]
     ```
 
 2. Navigate to the project directory:
